@@ -1,0 +1,581 @@
+BIB,country,link,mark,name,position
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/naoko-takahashi-14288024,2:23:14,Naoko TAKAHASHI,1
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/lidia-şimon-14295968,2:23:22,Lidia SIMON,2
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/joyce-chepchumba-14288877,2:24:45,Joyce CHEPCHUMBA,3
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/esther-wanjiru-maina-14289528,2:26:17,Esther Wanjiru MAINA,4
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/madina-biktagirova-14297390,2:26:33,Madina BIKTAGIROVA,5
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/elfinesh-alemu-14259940,2:26:54,Elfenesh ALEMU,6
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/eri-yamaguchi-14288392,2:27:03,Eri YAMAGUGHI,7
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/bong-sil-ham-14295163,2:27:07,Bong-Sil HAM,8
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/fatuma-roba-14259747,2:27:38,Fatuma ROBA,9
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/xiujuan-ren-14265419,2:27:55,Xiujuan REN,10
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/kerryn-mccann-14271694,2:28:37,Kerryn MCCANN,11
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/maura-viceconte-14285443,2:29:26,Maura VICECONTE,12
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/tegla-loroupe-14289238,2:29:45,Tegla LOROUPE,13
+"(None,)",KGZ,https://www.worldathletics.org/athletes/kirghizistan/irina-bogachova-14289544,2:29:55,Irina BOGACHOVA,14
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/ari-ichihashi-14286440,2:30:34,Ari ICHIHASHI,15
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/adriana-fernández-miranda-14291056,2:30:51,Adriana FERNÁNDEZ,16
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/judit-földingné-nagy-14281533,2:30:54,Judit FÖLDING-NAGY,17
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/ornella-ferrara-14284323,2:31:32,Ornella FERRARA,18
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/christine-clark-14307680,2:31:35,Christine CLARK,19
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/yong-ok-jong-14295179,2:31:40,Yong-Ok JONG,20
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/manuela-machado-14294959,2:32:29,Maria Manuela MACHADO,21
+"(None,)",NED,https://www.worldathletics.org/athletes/netherlands/nadja-wijenberg-14292278,2:32:29,Nadezhda WIJENBERG,22
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/lyubov-morgunova-14298665,2:32:35,Lyubov MORGUNOVA,23
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/sonja-oberem-krolik-14279101,2:33:45,Sonja OBEREM,24
+"(None,)",ECU,https://www.worldathletics.org/athletes/ecuador/martha-tenorio-14262269,2:33:54,Martha TENORIO,25
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/marian-sutton-14276481,2:34:33,Marian SUTTON,26
+"(None,)",CHI,https://www.worldathletics.org/athletes/chile/erika-alejandra-de-la-fuente-14269220,2:35:07,Erika Alejandra DE LA FUENTE,27
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/chang-ok-kim-14295145,2:35:32,Chang-Ok KIM,28
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/camelia-alina-tecuţă-gherasim-14295976,2:36:16,Camelia Alina TECUŢĂ-GHERASIM,29
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/ana-isabel-alonso-14262129,2:36:45,Ana Isabel ALONSO,30
+"(None,)",USA,https://www.worldathletics.org/athletes/south-africa/colleen-de-reuck-14308773,2:36:48,Colleen DE REUCK,31
+"(None,)",PER,https://www.worldathletics.org/athletes/peru/maria-portillo-cruz-14293300,2:36:50,María PORTILLO,32
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/griselda-maria-gonzález-14261402,2:38:28,Griselda GONZÁLEZ,33
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/mi-ja-oh-14289846,2:38:42,Mi-Ja OH,34
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/susan-hobson-14271948,2:38:44,Susan HOBSON,35
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/gadisse-edato-14259867,2:42:29,Gadissie EDATTO,36
+"(None,)",TUR,https://www.worldathletics.org/athletes/turkey/serap-aktas-14303194,2:42:40,Serap AKTAS,37
+"(None,)",SUI,https://www.worldathletics.org/athletes/switzerland/daria-nauer-14301062,2:43:00,Daria NAUER,38
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/maria-luisa-munoz-14260919,2:45:40,María Luisa MUÑOZ,39
+"(None,)",TJK,https://www.worldathletics.org/athletes/tajikistan/gulsara-dadabayeva-14302747,2:51:03,Gulsara DADABAEVA,41
+"(None,)",HON,https://www.worldathletics.org/athletes/honduras/gina-coello-14281140,3:02:32,Gina COELLO,42
+"(None,)",TLS,https://www.worldathletics.org/athletes/undefined/agueda-fatima-amaral-14282687,3:10:55,Agueda AMARAL,43
+"(None,)",GUM,https://www.worldathletics.org/athletes/guam/rhonda-davidson-alley-14281098,3:13:58,Rhonda DAVIDSON-ALLEY,44
+"(None,)",LAO,https://www.worldathletics.org/athletes/laos/sirivanh-ketavong-14289933,3:34:27,Sirivanh KETAVONG,45
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/nicole-carroll-14272347,DNF,Nicole CARROLL,"(None,)"
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/anuta-catuna-14295489,DNF,Anuta CATUNA,"(None,)"
+"(None,)",MDA,https://www.worldathletics.org/athletes/moldova/valentina-enachi-14290900,DNF,Valentina ENACHI,"(None,)"
+"(None,)",ISL,https://www.worldathletics.org/athletes/iceland/martha-ernstdóttir-14283427,DNF,Martha ERNSTSDÓTTIR,"(None,)"
+"(None,)",KAZ,https://www.worldathletics.org/athletes/kazakhstan/garifa-kuku-14288644,DNF,Garifa KUKU,"(None,)"
+"(None,)",NAM,https://www.worldathletics.org/athletes/namibia/elizabeth-mongudhi-14291439,DNF,Elizabeth MUNGUDHI,"(None,)"
+"(None,)",BEL,https://www.worldathletics.org/athletes/belgium/marleen-renders-14270237,DNF,Marleen RENDERS,"(None,)"
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/valentina-yegorova-14299803,DNF,Valentina YEGOROVA,"(None,)"
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/claudia-dreher-14277409,DNS,Claudia DREHER,"(None,)"
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/mizuki-noguchi-14287473,2:26:20,Mizuki NOGUCHI,1
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/catherine-ndereba-14289341,2:26:32,Catherine NDEREBA,2
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/deena-kastor-14309297,2:27:20,Deena KASTOR,3
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/elfinesh-alemu-14259940,2:28:15,Elfenesh ALEMU,4
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/reiko-tosa-14288222,2:28:44,Reiko TOSA,5
+"(None,)",SRB,https://www.worldathletics.org/athletes/serbia-and-montenegro/olivera-jevtić-14300350,2:31:15,Olivera JEVTIC,6
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/naoko-sakamoto-14287708,2:31:43,Naoko SAKAMOTO,7
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/lyudmila-petrova-14298897,2:31:56,Lyudmila PETROVA,8
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/svetlana-zakharova-14299849,2:32:04,Svetlana ZAKHAROVA,9
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/bruna-genovese-14284422,2:32:50,Bruna GENOVESE,10
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/alice-chelangat-14288832,2:33:52,Alice Chelangat NGERECHI,11
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/shujing-zhang-14264390,2:34:34,Shujing ZHANG,12
+"(None,)",USA,https://www.worldathletics.org/athletes/romania/nuţa-olaru-14295806,2:34:45,Nuta OLARU,13
+"(None,)",LTU,https://www.worldathletics.org/athletes/lithuania/živilé-balčiunaité-14290186,2:35:01,Zivilé BALCIÜNAITÉ,14
+"(None,)",FRA,https://www.worldathletics.org/athletes/france/corinne-raux-14273652,2:35:54,Corinne RAUX,15
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/rosaria-console-14284099,2:35:56,Rosaria CONSOLE,16
+"(None,)",POL,https://www.worldathletics.org/athletes/poland/małgorzata-sobańska-14294434,2:36:43,Malgorzata SOBANSKA,17
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/luminita-zaituc-14280384,2:36:45,Luminita ZAITUC,18
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/eun-jung-lee-14289779,2:37:23,Eun-jung LEE,19
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/constantina-dita-tomescu-14295567,2:37:31,Constantina DITA,20
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/yong-ok-jong-14295179,2:37:52,Yong-Ok JONG,21
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/helan-li-14266046,2:37:53,Helan LI,22
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/yun-hee-chung-14289636,2:38:57,Yunhee CHUNG,23
+"(None,)",NOR,https://www.worldathletics.org/athletes/norway/stine-larsen-14292707,2:39:55,Stine LARSEN,24
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/liz-yelling-14276822,2:40:13,Liz YELLING,25
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/maría-abel-14262164,2:40:13,Maribel ABEL,26
+"(None,)",MAR,https://www.worldathletics.org/athletes/morocco/hafida-izem-14290684,2:40:46,Hafida IZEM,27
+"(None,)",CZE,https://www.worldathletics.org/athletes/czech-republic/anna-pichrtová-14262824,2:40:58,Anna PICHRTOVÁ,28
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/tracey-morris-14275840,2:41:00,Tracey MORRIS,29
+"(None,)",MAR,https://www.worldathletics.org/athletes/morocco/kenza-wahbi-14290786,2:41:36,Kenza WAHBI,30
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/kerryn-mccann-14271694,2:41:41,Kerryn MCCANN,31
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/beatriz-ros-14260561,2:41:51,Beatriz ROS,32
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/chunxiu-zhou-14264260,2:42:54,Chunxiu ZHOU,33
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/jennifer-rhines-14319792,2:43:52,Jennifer RHINES,34
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/kyung-hee-choi-14289611,2:44:05,Kyung-hee CHOI,35
+"(None,)",ECU,https://www.worldathletics.org/athletes/ecuador/sandra-ruales-mosquera-14262275,2:44:28,Sandra RUALES,36
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/maría-dolores-pulido-14260696,2:44:33,María Dolores PULIDO,37
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/margarita-tapia-14291267,2:46:14,Margarita TAPIA,38
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/colleen-de-reuck-14308773,2:46:30,Colleen DE REUCK,39
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/albina-mayorova-14297938,2:47:23,Albina MAYOROVA,40
+"(None,)",POL,https://www.worldathletics.org/athletes/poland/grażyna-syrek-14294499,2:47:26,Grazyna SYREK,41
+"(None,)",ISR,https://www.worldathletics.org/athletes/israel/nili-avramski-14283491,2:48:08,Nili ABRAMSKI,42
+"(None,)",MAD,https://www.worldathletics.org/athletes/madagascar/clarisse-rasoarizay-14290535,2:48:14,Clarisse RASOARIZAY,43
+"(None,)",EST,https://www.worldathletics.org/athletes/estonia/jane-salumäe-14260018,2:48:47,Jane SALUMÄE,44
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/simona-staicu-14282349,2:48:57,Simona STAICU,45
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/angelica-sánchez-14291256,2:49:04,Angélica SÁNCHEZ,46
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/helena-sampaio-14295075,2:49:18,Helena SAMPAIO,47
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/beáta-rakonczai-14282256,2:49:41,Beáta RAKONCZAI,48
+"(None,)",DEN,https://www.worldathletics.org/athletes/denmark/annemette-jensen-14262512,2:50:01,Annemette JENSEN,49
+"(None,)",GRE,https://www.worldathletics.org/athletes/greece/georgia-ambatzidou-14280488,2:50:01,Yeoryía ABATZÍDOU,50
+"(None,)",NZL,https://www.worldathletics.org/athletes/new-zealand/liza-hunter-galvan-14293012,2:50:23,Liza HUNTER-GALVAN,51
+"(None,)",FRA,https://www.worldathletics.org/athletes/france/hafida-gadi-14257429,2:50:29,Hafida GADI,52
+"(None,)",TJK,https://www.worldathletics.org/athletes/tajikistan/gulsara-dadabayeva-14302747,2:50:45,Gulsara DADABAEVA,53
+"(None,)",RWA,https://www.worldathletics.org/athletes/rwanda/epiphanie-nyirabarame-14299956,2:52:50,Epiphanie NYIRABARAME,54
+"(None,)",ARG,https://www.worldathletics.org/athletes/argentina/sandra-torres-14272576,2:54:48,Sandra TORRES,55
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/bun-hui-jo-14295177,2:55:54,Bun-Hui JO,56
+"(None,)",TPE,https://www.worldathletics.org/athletes/chinese-taipei/yu-fang-hsu-14302840,2:55:58,Yu-Fang HSU,57
+"(None,)",CHI,https://www.worldathletics.org/athletes/chile/erika-alejandra-de-la-fuente-14269220,2:57:14,Erika Alejandra DE LA FUENTE,58
+"(None,)",CUB,https://www.worldathletics.org/athletes/cuba/mariela-gonzález-14263555,3:02:20,Mariela GONZÁLEZ,59
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/ida-kovács-14281880,3:03:21,Ida KOVÁCS,60
+"(None,)",MDA,https://www.worldathletics.org/athletes/moldova/svetlana-shepeleva-tkach-14290924,3:03:29,Svetlana TKACH-SHEPELEVA,61
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/ana-dias-14294853,3:08:11,Ana DIAS,62
+"(None,)",LTU,https://www.worldathletics.org/athletes/lithuania/inga-juodeškiené-14290253,3:09:18,Inga JUODEŠKIENÉ,63
+"(None,)",LES,https://www.worldathletics.org/athletes/lesotho/mamokete-lechela-14290140,3:11:56,Mamokete LECHELA,64
+"(None,)",TLS,https://www.worldathletics.org/athletes/timor-leste/agueda-fatima-amaral-14282687,3:18:25,Agueda AMARAL,65
+"(None,)",MGL,https://www.worldathletics.org/athletes/mongolia/otgonbayar-luvsanlkhundeg-14291305,3:48:42,Otgonbayar LUVSANLUNDEG,66
+"(None,)",ALG,https://www.worldathletics.org/athletes/algeria/nasria-azaidj-14272880,DNF,Leila BAGHDAD,"(None,)"
+"(None,)",KGZ,https://www.worldathletics.org/athletes/kirghizistan/irina-bogachova-14289544,DNF,Irina BOGACHOVA,"(None,)"
+"(None,)",ITA,https://www.worldathletics.org/athletes/bahrain/nadia-ejjafini-14268776,DNF,Nadia EJJAFINI,"(None,)"
+"(None,)",BRA,https://www.worldathletics.org/athletes/brazil/marlene-teixeria-fortunato-14269041,DNF,Marlene FORTUNATO,"(None,)"
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/asha-gigi-14259834,DNF,Asha GIGI,"(None,)"
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/bong-sil-ham-14295163,DNF,Bong-Sil HAM,"(None,)"
+"(None,)",TAN,https://www.worldathletics.org/athletes/tanzania/banuelia-katesigwa-14302612,DNF,Banuelia KATESIGWA,"(None,)"
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/ulrike-maisch-14278765,DNF,Ulrike MAISCH,"(None,)"
+"(None,)",FRA,https://www.worldathletics.org/athletes/france/rakiya-maraoui-quetier-14273008,DNF,Rakiya MARAOUI-QUETIER,"(None,)"
+"(None,)",BRA,https://www.worldathletics.org/athletes/brazil/márcia-narloch-14268944,DNF,Márcia NARLOCH,"(None,)"
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/margaret-okayo-14289395,DNF,Margaret OKAYO,"(None,)"
+"(None,)",TUR,https://www.worldathletics.org/athletes/turkey/lale-öztürk-14303312,DNF,Lale ÖZTÜRK,"(None,)"
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/paula-radcliffe-14276130,DNF,Paula RADCLIFFE,"(None,)"
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/lidia-şimon-14295968,DNF,Lidia SIMON,"(None,)"
+"(None,)",POL,https://www.worldathletics.org/athletes/poland/monika-stefanowicz-14293585,DNF,Monika STEFANOWICZ,"(None,)"
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/workenesh-tola-14259714,DNF,Workenesh TOLA,"(None,)"
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/constantina-dita-14295567,2:26:44,Constantina DITA,1
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/catherine-ndereba-14289341,2:27:06,Catherine NDEREBA,2
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/chunxiu-zhou-14264260,2:27:07,Chunxiu ZHOU,3
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/xiaolin-zhu-14264209,2:27:16,Xiaolin ZHU,4
+"(None,)",FRA,https://www.worldathletics.org/athletes/kenya/martha-komu-14289188,2:27:23,Martha KOMU MUNYUTU,5
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/mara-yamauchi-14276819,2:27:29,Mara YAMAUCHI,6
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/irina-timofeeva-14299554,2:27:31,Irina TIMOFEEVA,7
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/lidia-simon-14295968,2:27:51,Lidia SIMON,8
+"(None,)",ALG,https://www.worldathletics.org/athletes/algeria/souad-aït-salem-14272893,2:28:29,Souad AÏT SALEM,9
+"(None,)",KEN,https://www.worldathletics.org/athletes/kenya/salina-jebet-kosgei-14289206,2:29:28,Salina Jebet KOSGEI,10
+"(None,)",LTU,https://www.worldathletics.org/athletes/lithuania/zivilé-balciünaité-14290186,2:29:33,Zivilé BALCIÜNAITÉ,11
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/kum-ok-kim-14295210,2:30:01,Kum-Ok KIM,12
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/yurika-nakamura-14287339,2:30:19,Yurika NAKAMURA,13
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/anna-incerti-14284533,2:30:55,Anna INCERTI,14
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/dire-tune-14259927,2:31:16,Dire TUNE,15
+"(None,)",NZL,https://www.worldathletics.org/athletes/new-zealand/nina-rillstone-14293151,2:31:16,Nina RILLSTONE,16
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/bruna-genovese-14284422,2:31:31,Bruna GENOVESE,17
+"(None,)",ROU,https://www.worldathletics.org/athletes/romania/luminita-talpos-14295762,2:31:41,Luminita TALPOS,18
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/madaí-pérez-14291191,2:31:47,Madaí PÉREZ,19
+"(None,)",FRA,https://www.worldathletics.org/athletes/france/christelle-daunay-14257893,2:31:48,Christelle DAUNAY,20
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/benita-willis-14271064,2:32:06,Benita WILLIS,21
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/svetlana-zakharova-14299849,2:32:16,Svetlana ZAKHAROVA,22
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/paula-radcliffe-14276130,2:32:38,Paula RADCLIFFE,23
+"(None,)",POL,https://www.worldathletics.org/athletes/poland/monika-drybulska-14293585,2:32:39,Monika STEFANOWICZ,24
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/eun-jung-lee-14289779,2:33:07,Eun-jung LEE,25
+"(None,)",GBR,https://www.worldathletics.org/athletes/great-britain-ni/liz-yelling-14276822,2:33:12,Liz YELLING,26
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/blake-russell-14318958,2:33:13,Blake RUSSELL,27
+"(None,)",NAM,https://www.worldathletics.org/athletes/namibia/beata-naigambo-14291442,2:33:29,Beata NAIGAMBO,28
+"(None,)",ITA,https://www.worldathletics.org/athletes/italy/vincenza-sicari-14285270,2:33:31,Vincenza SICARI,29
+"(None,)",POL,https://www.worldathletics.org/athletes/poland/dorota-gruca-14293692,2:33:32,Dorota GRUCA,30
+"(None,)",UKR,https://www.worldathletics.org/athletes/ukraine/tetyana-filonyuk-14303567,2:33:35,Tetyana FILONYUK,31
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/marisa-barros-14294793,2:34:08,Marisa BARROS,32
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/lisa-jane-weightman-14271094,2:34:16,Lisa WEIGHTMAN,33
+"(None,)",NOR,https://www.worldathletics.org/athletes/norway/kirsten-marathon-melkevik-14292753,2:34:35,Kirsten Marathon MELKEVIK,34
+"(None,)",NZL,https://www.worldathletics.org/athletes/new-zealand/liza-hunter-galvan-14293012,2:34:51,Liza HUNTER-GALVAN,35
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/yong-ok-jong-14295179,2:34:52,Yong-Ok JONG,36
+"(None,)",LTU,https://www.worldathletics.org/athletes/lithuania/rasa-drazdauskaité-14290222,2:35:09,Rasa DRAZDAUSKAITÉ,37
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/melanie-kraus-14278491,2:35:17,Melanie KRAUS,38
+"(None,)",PER,https://www.worldathletics.org/athletes/peru/maría-portillo-14293300,2:35:19,María PORTILLO,39
+"(None,)",NAM,https://www.worldathletics.org/athletes/namibia/helalia-johannes-14291432,2:35:22,Helalia JOHANNES,40
+"(None,)",CHN,https://www.worldathletics.org/athletes/pr-of-china/shujing-zhang-14264390,2:35:35,Shujing ZHANG,41
+"(None,)",BIH,https://www.worldathletics.org/athletes/bosniaherzegovina/lucia-kimani-14270036,2:35:47,Lucia Mwihaki KIMANI,42
+"(None,)",ECU,https://www.worldathletics.org/athletes/ecuador/sandra-ruales-14262275,2:35:53,Sandra RUALES,43
+"(None,)",AUS,https://www.worldathletics.org/athletes/australia/kate-smyth-14271986,2:36:10,Kate SMYTH,44
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/yesenia-centeno-14261831,2:36:25,Yesenia CENTENO,45
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/ana-dias-14294853,2:36:25,Ana DIAS,46
+"(None,)",ERI,https://www.worldathletics.org/athletes/eritrea/nebiat-habtemariam-14262204,2:37:03,Nebiat HABTEMARIAM,47
+"(None,)",PRK,https://www.worldathletics.org/athletes/dpr-of-korea/bun-hui-jo-14295177,2:37:04,Bun-Hui JO,48
+"(None,)",ZIM,https://www.worldathletics.org/athletes/zimbabwe/tabitha-tsatsa-14325383,2:37:10,Tabitha TSATSA,49
+"(None,)",TUR,https://www.worldathletics.org/athletes/turkey/bahar-dogan-14303236,2:37:12,Bahar DOGAN,50
+"(None,)",BRA,https://www.worldathletics.org/athletes/brazil/marily-dos-santos-14269103,2:38:10,Marily DOS SANTOS,51
+"(None,)",GER,https://www.worldathletics.org/athletes/germany/susanne-hahn-14279400,2:38:31,Susanne HAHN,52
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/eun-hee-chae-14289587,2:38:52,Eun-hee CHAE,53
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/alessandra-aguilar-14262157,2:39:29,Alessandra AGUILAR,54
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/patricia-rétiz-14291210,2:39:34,Patricia RÉTIZ,55
+"(None,)",KOR,https://www.worldathletics.org/athletes/korea/sun-young-lee-14289806,2:43:23,Sun-young LEE,56
+"(None,)",AUT,https://www.worldathletics.org/athletes/austria/eva-maria-gradwohl-14270939,2:44:24,Eva-Maria GRADWOHL,57
+"(None,)",KGZ,https://www.worldathletics.org/athletes/kirghizistan/iuliia-andreeva-14522921,2:44:41,Iuliia ANDREEVA,58
+"(None,)",BOL,https://www.worldathletics.org/athletes/bolivia/sonia-calizaya-14269501,2:45:53,Sonia CALIZAYA,59
+"(None,)",GRE,https://www.worldathletics.org/athletes/greece/eléni-dónta-14280584,2:46:44,Eléni DÓNTA,60
+"(None,)",MEX,https://www.worldathletics.org/athletes/mexico/karina-pérez-14291189,2:47:02,Karina PÉREZ,61
+"(None,)",COL,https://www.worldathletics.org/athletes/colombia/bertha-sánchez-14263908,2:47:02,Bertha SÁNCHEZ,62
+"(None,)",IRL,https://www.worldathletics.org/athletes/ireland/pauline-curley-14283179,2:47:16,Pauline CURLEY,63
+"(None,)",ESP,https://www.worldathletics.org/athletes/spain/maria-josé-pueyo-14260700,2:48:01,Maria José PUEYO,64
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/petra-teveli-14282522,2:48:32,Petra TEVELI,65
+"(None,)",RWA,https://www.worldathletics.org/athletes/rwanda/epiphanie-nyirabarame-14299956,2:49:32,Epiphanie NYIRABARAME,66
+"(None,)",SVK,https://www.worldathletics.org/athletes/slovak-republic/zuzana-šaríková-14301596,2:49:39,Zuzana ŠARÍKOVÁ,67
+"(None,)",CRC,https://www.worldathletics.org/athletes/costa-rica/gabriela-traña-14263873,2:53:45,Gabriela TRAÑA,68
+"(None,)",UKR,https://www.worldathletics.org/athletes/ukraine/oxana-sklyarenko-14304207,2:55:39,Oxana SKLYARENKO,69
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/berhane-adere-14259948,DNF,Berhane ADERE,"(None,)"
+"(None,)",RUS,https://www.worldathletics.org/athletes/russia/galina-bogomolova-14297417,DNF,Galina BOGOMOLOVA,"(None,)"
+"(None,)",MDA,https://www.worldathletics.org/athletes/moldova/valentina-delion-14290896,DNF,Valentina DELION,"(None,)"
+"(None,)",TLS,https://www.worldathletics.org/athletes/timor-leste/mariana-dias-ximenes-14872310,DNF,Mariana DIAS XIMENES,"(None,)"
+"(None,)",SRB,https://www.worldathletics.org/athletes/serbia/olivera-jevtic-14300350,DNF,Olivera JEVTIC,"(None,)"
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/deena-kastor-14309297,DNF,Deena KASTOR,"(None,)"
+"(None,)",USA,https://www.worldathletics.org/athletes/united-states/magdalena-lewy-boulet-14315381,DNF,Magdalena LEWY-BOULET,"(None,)"
+"(None,)",POR,https://www.worldathletics.org/athletes/portugal/inês-monteiro-14294984,DNF,Inês MONTEIRO,"(None,)"
+"(None,)",HUN,https://www.worldathletics.org/athletes/hungary/beáta-rakonczai-14282256,DNF,Beáta RAKONCZAI,"(None,)"
+"(None,)",LES,https://www.worldathletics.org/athletes/lesotho/mamorallo-tjoka-14290149,DNF,Mamorallo TJOKA,"(None,)"
+"(None,)",JPN,https://www.worldathletics.org/athletes/japan/reiko-tosa-14288222,DNF,Reiko TOSA,"(None,)"
+"(None,)",ETH,https://www.worldathletics.org/athletes/ethiopia/gete-wami-14259703,DNF,Gete WAMI,"(None,)"
+"(None,)",ITA,https://www.worldathletics.org/athletes/bahrain/nadia-ejjafini-14268776,DNS,Nadia EJJAFINI,"(None,)"
+1708,ETH,https://www.worldathletics.org/athletes/ethiopia/tiki-gelana-14259718,2:23:07,Tiki GELANA,1
+2330,KEN,https://www.worldathletics.org/athletes/kenya/prisca-jeptoo-14289039,2:23:12,Priscah JEPTOO,2
+2884,RUS,https://www.worldathletics.org/athletes/russia/tatiana-arkhipova-14298902,2:23:29,Tatyana ARKHIPOVA,3
+2331,KEN,https://www.worldathletics.org/athletes/kenya/mary-jepkosgei-keitany-14289084,2:23:56,Mary Jepkosgei KEITANY,4
+1399,CHN,https://www.worldathletics.org/athletes/pr-of-china/xiaolin-zhu-14264209,2:24:48,Xiaolin ZHU,5
+2719,POR,https://www.worldathletics.org/athletes/portugal/jessica-augusto-14294784,2:25:11,Jessica AUGUSTO,6
+2163,ITA,https://www.worldathletics.org/athletes/italy/valeria-straneo-14285328,2:25:27,Valeria STRANEO,7
+2879,RUS,https://www.worldathletics.org/athletes/russia/albina-mayorova-14297938,2:25:38,Albina MAYOROVA,8
+3288,USA,https://www.worldathletics.org/athletes/united-states/shalane-flanagan-14310164,2:25:51,Shalane FLANAGAN,9
+3292,USA,https://www.worldathletics.org/athletes/united-states/kara-goucher-14311212,2:26:07,Kara GOUCHER,10
+2537,NAM,https://www.worldathletics.org/athletes/namibia/helalia-johannes-14291432,2:26:09,Helalia JOHANNES,11
+2721,POR,https://www.worldathletics.org/athletes/portugal/marisa-barros-14294793,2:26:13,Marisa BARROS,12
+1949,URS,https://www.worldathletics.org/athletes/germany/irina-mikitenko-14278911,2:26:44,Irina VOLYNSKAYA,13
+2615,NZL,https://www.worldathletics.org/athletes/new-zealand/kimberley-smith-14293171,2:26:59,Kimberley SMITH,14
+2255,JPN,https://www.worldathletics.org/athletes/japan/ryoko-kizaki-14286842,2:27:16,Ryoko KIZAKI,15
+1083,AUS,https://www.worldathletics.org/athletes/australia/lisa-weightman-14271094,2:27:32,Lisa WEIGHTMAN,16
+3003,SWE,https://www.worldathletics.org/athletes/sweden/isabellah-andersson-14301672,2:27:36,Isabellah ANDERSSON,17
+2259,JPN,https://www.worldathletics.org/athletes/japan/yoshimi-ozaki-14287672,2:27:43,Yoshimi OZAKI,18
+2334,KEN,https://www.worldathletics.org/athletes/kenya/edna-ngeringwony-kiplagat-14289137,2:27:52,Edna Ngeringwony KIPLAGAT,19
+2725,POR,https://www.worldathletics.org/athletes/portugal/dulce-félix-14294876,2:28:12,Dulce FÉLIX,20
+1391,CHN,https://www.worldathletics.org/athletes/pr-of-china/xueqin-wang-14265022,2:28:21,Xueqin WANG,21
+1705,ETH,https://www.worldathletics.org/athletes/ethiopia/mare-dibaba-14326294,2:28:48,Mare DIBABA,22
+2557,NED,https://www.worldathletics.org/athletes/netherlands/hilde-kibet-14289096,2:28:52,Hilda KIBET,23
+2631,PER,https://www.worldathletics.org/athletes/peru/inés-melchor-14293292,2:28:54,Inés MELCHOR,24
+1640,ESP,https://www.worldathletics.org/athletes/spain/alessandra-aguilar-14262157,2:29:19,Alessandra AGUILAR,25
+2432,LTU,https://www.worldathletics.org/athletes/lithuania/rasa-drazdauskaitė-14290222,2:29:29,Rasa DRAZDAUSKAITÉ,26
+2436,LTU,https://www.worldathletics.org/athletes/lithuania/diana-lobacevské-14290306,2:29:32,Diana MACIUSONYTE,27
+2156,ITA,https://www.worldathletics.org/athletes/italy/anna-incerti-14284533,2:29:38,Anna INCERTI,28
+2150,ITA,https://www.worldathletics.org/athletes/italy/rosaria-console-14284099,2:30:09,Rosaria CONSOLE,29
+1131,BDI,https://www.worldathletics.org/athletes/burundi/diane-nukuri-14270524,2:30:13,Diane NUKURI,30
+1937,GER,https://www.worldathletics.org/athletes/germany/susanne-hahn-14279400,2:30:22,Susanne RITTER,31
+1200,BLR,https://www.worldathletics.org/athletes/belarus/nastassia-ivanova-14269599,2:30:25,Nastassia IVANOVA,32
+1184,BLR,https://www.worldathletics.org/athletes/belarus/svetlana-klimkovich-kovgan-14269832,2:30:26,Sviatlana KOUHAN,33
+2792,RSA,https://www.worldathletics.org/athletes/south-africa/rené-kalmer-14296453,2:30:51,René KALMER,34
+2686,POL,https://www.worldathletics.org/athletes/poland/karolina-nadolska-14293773,2:30:57,Karolina NADOLSKA,35
+1010,ALG,https://www.worldathletics.org/athletes/algeria/souad-ait-salem-14272893,2:31:15,Souad AÏT SALEM,36
+2538,NAM,https://www.worldathletics.org/athletes/namibia/beata-naigambo-14291442,2:31:16,Beata NAIGAMBO,37
+1082,AUS,https://www.worldathletics.org/athletes/australia/jessica-stenson-14336656,2:31:17,Jessica TRENGOVE,38
+1549,DEN,https://www.worldathletics.org/athletes/denmark/jess-draskau-petersson-14262541,2:31:43,Jessica DRASKAU-PETERSSON,39
+2362,KOR,https://www.worldathletics.org/athletes/korea/yun-hee-chung-14289636,2:31:58,Yunhee CHUNG,40
+1712,ETH,https://www.worldathletics.org/athletes/ethiopia/asselefech-medessa-mergia-14259925,2:32:03,Aselefech MERGIA,41
+2632,PER,https://www.worldathletics.org/athletes/peru/gladys-tejeda-14383678,2:32:07,Gladys TEJEDA,42
+1865,GBR,https://www.worldathletics.org/athletes/great-britain-ni/freya-murray-14275864,2:32:14,Freya ROSS,43
+2773,ROU,https://www.worldathletics.org/athletes/romania/lidia-şimon-14295968,2:32:46,Lidia SIMON,44
+2513,MEX,https://www.worldathletics.org/athletes/mexico/marisol-romero-rosales-14291236,2:33:08,Marisol ROMERO,45
+1236,BRA,https://www.worldathletics.org/athletes/brazil/adriana-aparecida-da-silva-14269334,2:33:15,Adriana Aparecida DA SILVA,46
+3155,UKR,https://www.worldathletics.org/athletes/ukraine/olena-burkovska-14303489,2:33:26,Olena BURKOVSKA,47
+2738,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/kum-ok-kim-14295210,2:33:30,Kum-Ok KIM,48
+2511,MEX,https://www.worldathletics.org/athletes/mexico/karina-pérez-14291189,2:33:30,Karina PÉREZ,49
+1422,COL,https://www.worldathletics.org/athletes/colombia/erika-abril-14940634,2:33:33,Erika ABRIL,50
+1460,CRO,https://www.worldathletics.org/athletes/croatia/lisa-christina-nemec-14322227,2:34:03,Lisa Christina NEMEC,51
+2978,SUI,https://www.worldathletics.org/athletes/switzerland/maja-neuenschwander-14301064,2:34:50,Maja NEUENSCHWANDER,52
+1092,AUT,https://www.worldathletics.org/athletes/austria/andrea-mayr-14270847,2:34:51,Andrea MAYR,53
+2630,PER,https://www.worldathletics.org/athletes/peru/vilma-arizapana-14293263,2:35:09,Wilma ARIZAPANA,54
+2737,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/jon-kyong-hui-14367922,2:35:17,Kyong-Hui JON,55
+1857,GBR,https://www.worldathletics.org/athletes/great-britain-ni/claire-hallissey-14275213,2:35:39,Claire HALLISSEY,56
+1605,ERI,https://www.worldathletics.org/athletes/eritrea/rehaset-mehari-14464173,2:35:49,Rehaset MEHARI,57
+2347,KGZ,https://www.worldathletics.org/athletes/kirghizistan/iuliia-andreeva-14522921,2:36:01,Iuliia ANDREEVA,58
+1647,ESP,https://www.worldathletics.org/athletes/spain/elena-maría-espeso-14360230,2:36:12,María Elena ESPESO,59
+1257,BRN,https://www.worldathletics.org/athletes/bahrain/lishan-dula-14413299,2:36:20,Lishan DULA,60
+1339,CHI,https://www.worldathletics.org/athletes/chile/erika-alejandra-de-la-fuente-14269220,2:36:41,Erika Alejandra DE LA FUENTE,61
+2487,MDA,https://www.worldathletics.org/athletes/moldova/natalia-cerches-14290882,2:37:13,Natalia CERCHES,62
+2101,IRL,https://www.worldathletics.org/athletes/ireland/linda-byrne-14283153,2:37:13,Linda BYRNE,63
+1542,CZE,https://www.worldathletics.org/athletes/czech-republic/ivana-sekyrová-14262751,2:37:14,Ivana SEKYROVÁ,64
+2106,IRL,https://www.worldathletics.org/athletes/ireland/ava-hutchinson-14275405,2:37:17,Ava HUTCHINSON,65
+1340,CHI,https://www.worldathletics.org/athletes/chile/nataly-romero-jaramillo-14266817,2:37:47,Natalia ROMERO,66
+1488,CUB,https://www.worldathletics.org/athletes/cuba/dailin-belmonte-14263683,2:38:08,Dailín BELMONTE,67
+2958,SRB,https://www.worldathletics.org/athletes/serbia/ana-subotić-14300430,2:38:22,Ana SUBOTIC,68
+3087,TUR,https://www.worldathletics.org/athletes/turkey/sultan-haydar-14259831,2:38:26,Sultan HAYDAR,69
+2476,MAR,https://www.worldathletics.org/athletes/morocco/samira-raif-14290757,2:38:31,Samira RAIF,70
+2739,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/mi-gyong-kim-14375857,2:38:33,Mi-Gyong KIM,71
+2435,LTU,https://www.worldathletics.org/athletes/lithuania/renalda-kergyté-14290271,2:39:01,Remalda KERGYTÈ,72
+2366,KOR,https://www.worldathletics.org/athletes/korea/kyung-hee-lim-14289823,2:39:03,Kyunghee LIM,73
+2526,MNE,https://www.worldathletics.org/athletes/montenegro/sladana-perunović-14383719,2:39:07,Sladana PERUNOVIC,74
+1178,BLR,https://www.worldathletics.org/athletes/belarus/volha-dubovskaya-14269648,2:39:12,Olga DUBOVSKAYA,75
+2261,JPN,https://www.worldathletics.org/athletes/japan/risa-shigetomo-14287827,2:40:06,Risa SHIGETOMO,76
+3068,TUN,https://www.worldathletics.org/athletes/tunisia/amira-benamor-14303079,2:40:13,Amira BEN AMOR,77
+2793,RSA,https://www.worldathletics.org/athletes/united-states/tanith-maxwell-14296611,2:40:27,Tanith MAXWELL,78
+1027,ARG,https://www.worldathletics.org/athletes/argentina/maría-de-los-angeles-peralta-14272611,2:40:50,María PERALTA,79
+1578,ECU,https://www.worldathletics.org/athletes/ecuador/rosa-chacha-14262327,2:40:57,Rosa CHACHA,80
+2062,INA,https://www.worldathletics.org/athletes/indonesia/triyaningsih-triyaningsih-14282744,2:41:15,- TRIYANINGSIH,81
+2059,HUN,https://www.worldathletics.org/athletes/hungary/beáta-rakonczai-14282256,2:41:20,Beáta RAKONCZAI,82
+2765,ROU,https://www.worldathletics.org/athletes/romania/constantina-dita-tomescu-14295567,2:41:34,Constantina DITA,83
+1736,FIN,https://www.worldathletics.org/athletes/finland/leena-puotiniemi-14378769,2:42:01,Leena PUOTINIEMI,84
+2934,SLO,https://www.worldathletics.org/athletes/slovenia/žana-jereb-14441629,2:42:50,Žana JEREB,85
+2420,LES,https://www.worldathletics.org/athletes/lesotho/mamorallo-tjoka-14290149,2:43:15,Mamorallo TJOKA,86
+1451,CRC,https://www.worldathletics.org/athletes/costa-rica/gabriela-traña-14263873,2:43:17,Gabriela TRAÑA,87
+2051,HUN,https://www.worldathletics.org/athletes/hungary/zsófia-erdélyi-14281461,2:44:45,Zsófia ERDÉLYI,88
+3120,UGA,https://www.worldathletics.org/athletes/uganda/jane-suuto-14303399,2:44:46,Jane SUUTO,89
+3353,VEN,https://www.worldathletics.org/athletes/venezuela/yolimar-pineda-14325191,2:45:16,Yolimar PINEDA,90
+2055,HUN,https://www.worldathletics.org/athletes/hungary/anikó-kálovics-14281775,2:45:55,Anikó KÁLOVICS,91
+2365,KOR,https://www.worldathletics.org/athletes/korea/sung-eun-kim-14289756,2:46:38,Seongeun KIM,92
+1661,ESP,https://www.worldathletics.org/athletes/spain/vanesa-veiga-14260269,2:46:53,Vanessa VEIGA,93
+2402,LAT,https://www.worldathletics.org/athletes/latvia/dace-lina-14458599,2:47:47,Dace LINA,94
+2992,SVK,https://www.worldathletics.org/athletes/slovak-republic/katarína-pejpkova-berešová-14301373,2:48:11,Katarina BÉREŠOVÁ,95
+1085,AUS,https://www.worldathletics.org/athletes/australia/benita-willis-johnson-14271064,2:49:38,Benita WILLIS,96
+2906,RWA,https://www.worldathletics.org/athletes/rwanda/claudette-mukasakindi-14299953,2:51:07,Claudette MUKASAKINDI,97
+2516,MGL,https://www.worldathletics.org/athletes/mongolia/otgonbayar-luvsanlkhundeg-14291305,2:52:15,Otgonbayar LUVSANLUNDEG,98
+1674,EST,https://www.worldathletics.org/athletes/estonia/evelin-talts-14260141,2:54:15,Evelin TALTS,99
+1992,GRE,https://www.worldathletics.org/athletes/greece/konstantina-kefala-14280689,3:01:18,Konstadína KEFALÁ,100
+2535,MYA,https://www.worldathletics.org/athletes/myanmar/ni-lar-san-14291418,3:04:27,Ni Lar SAN,101
+3027,TLS,https://www.worldathletics.org/athletes/timor-leste/juventina-napoleao-14446466,3:05:07,Juventina NAPOLEAO,102
+2107,IRL,https://www.worldathletics.org/athletes/ireland/catriona-jennings-14275449,3:22:11,Caitriona JENNINGS,103
+1424,COL,https://www.worldathletics.org/athletes/colombia/yolanda-caballero-14264046,DQ,Yolanda CABALLERO,"(None,)"
+3085,TUR,https://www.worldathletics.org/athletes/turkey/bahar-doğan-14303236,DQ,Bahar DOGAN,"(None,)"
+3094,TUR,https://www.worldathletics.org/athletes/turkey/ümmü-kiraz-14303292,DQ,Ümmü KIRAZ,"(None,)"
+3161,UKR,https://www.worldathletics.org/athletes/ukraine/tetyana-gamera-14303581,DQ,Tetiana SHMYRKO,"(None,)"
+2895,RUS,https://www.worldathletics.org/athletes/russia/liliya-shobukhova-14299314,DQ,Liliya SHOBUKHOVA,"(None,)"
+1390,CHN,https://www.worldathletics.org/athletes/pr-of-china/jiali-wang-14265125,DQ,Jiali WANG,"(None,)"
+3159,UKR,https://www.worldathletics.org/athletes/ukraine/tetyana-filonyuk-14303567,DNF,Tetyana FILONYUK,"(None,)"
+2955,SRB,https://www.worldathletics.org/athletes/serbia/olivera-jevtić-14300350,DNF,Olivera JEVTIC,"(None,)"
+1154,BIH,https://www.worldathletics.org/athletes/bosniaherzegovina/lucia-mwihaki-kimani-14270036,DNF,Lucia Mwihaki KIMANI,"(None,)"
+2558,NED,https://www.worldathletics.org/athletes/netherlands/lornah-kiplagat-14291787,DNF,Lornah KIPLAGAT,"(None,)"
+2471,MAR,https://www.worldathletics.org/athletes/morocco/soumiya-laabani-14290703,DNF,Soumiya LABANI,"(None,)"
+3282,USA,https://www.worldathletics.org/athletes/united-states/desiree-linden-14308638,DNF,Desireé LINDEN,"(None,)"
+3369,ZIM,https://www.worldathletics.org/athletes/zimbabwe/sharon-tavengwa-14325382,DNF,Sharon TAVENGWA,"(None,)"
+2795,RSA,https://www.worldathletics.org/athletes/south-africa/irvette-van-zyl-14296979,DNF,Irvette VAN ZYL,"(None,)"
+1880,GBR,https://www.worldathletics.org/athletes/great-britain-ni/mara-yamauchi-14276819,DNF,Mara YAMAUCHI,"(None,)"
+958,KEN,https://www.worldathletics.org/athletes/kenya/jemima-jelagat-sumgong-14289014,2:24:04,Jemima Jelagat SUMGONG,1
+452,BRN,https://www.worldathletics.org/athletes/bahrain/eunice-jepkirui-kirwa-14289179,2:24:13,Eunice Jepkirui KIRWA,2
+644,ETH,https://www.worldathletics.org/athletes/ethiopia/mare-dibaba-14326294,2:24:30,Mare DIBABA,3
+651,ETH,https://www.worldathletics.org/athletes/ethiopia/tirfi-tsegaye-14334498,2:24:47,Tirfi TSEGAYE,4
+397,BLR,https://www.worldathletics.org/athletes/belarus/volha-mazuronak-14269741,2:24:48,Volha MAZURONAK,5
+1340,USA,https://www.worldathletics.org/athletes/united-states/shalane-flanagan-14310164,2:25:26,Shalane FLANAGAN,6
+1352,USA,https://www.worldathletics.org/athletes/united-states/desiree-linden-14308638,2:26:08,Desireé LINDEN,7
+446,BRN,https://www.worldathletics.org/athletes/bahrain/rose-chelimo-14436833,2:27:36,Rose CHELIMO,8
+1333,USA,https://www.worldathletics.org/athletes/united-states/amy-cragg-14312171,2:28:25,Amy CRAGG,9
+1138,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/hye-song-kim-14598447,2:28:36,Hye-Song KIM,10
+1137,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/hye-gyong-kim-14484403,2:28:36,Hye-Gyong KIM,11
+978,LAT,https://www.worldathletics.org/athletes/latvia/jeļena-prokopčuka-14289965,2:29:32,Jelena PROKOPCUKA,12
+874,ITA,https://www.worldathletics.org/athletes/italy/valeria-straneo-14285328,2:29:44,Valeria STRANEO,13
+913,JPN,https://www.worldathletics.org/athletes/japan/kayoko-fukushi-14286215,2:29:53,Kayoko FUKUSHI,14
+1085,PER,https://www.worldathletics.org/athletes/peru/gladys-tejeda-14383678,2:29:55,Gladys TEJEDA,15
+1129,POR,https://www.worldathletics.org/athletes/portugal/dulce-félix-14294876,2:30:39,Dulce FÉLIX,16
+986,LTU,https://www.worldathletics.org/athletes/lithuania/diana-lobacevské-14290306,2:30:48,Diana MACIUSONYTE,17
+323,AUS,https://www.worldathletics.org/athletes/australia/milly-clark-14445318,2:30:53,Milly CLARK,18
+923,JPN,https://www.worldathletics.org/athletes/japan/tomomi-tanaka-14288139,2:31:12,Tomomi TANAKA,19
+845,IRL,https://www.worldathletics.org/athletes/ireland/fionnuala-mccormack-14283143,2:31:22,Fionnuala MCCORMACK,20
+1109,POL,https://www.worldathletics.org/athletes/poland/iwona-bernardelli-14294028,2:31:41,Iwona BERNARDELLI,21
+342,AUS,https://www.worldathletics.org/athletes/australia/jessica-stenson-14336656,2:31:44,Jessica TRENGOVE,22
+1115,POL,https://www.worldathletics.org/athletes/poland/monika-stefanowicz-14293585,2:32:49,Monika STEFANOWICZ,23
+482,CAN,https://www.worldathletics.org/athletes/canada/lanni-marchant-14316001,2:33:08,Lanni MARCHANT,24
+857,ITA,https://www.worldathletics.org/athletes/italy/catherine-bertone-14283782,2:33:29,Catherine BERTONE,25
+599,CZE,https://www.worldathletics.org/athletes/czech-republic/eva-vrabcová-nyvltová-14941331,2:33:51,Eva VRABCOVÁ NYVLTOVÁ,26
+1001,MDA,https://www.worldathletics.org/athletes/moldova/lilia-fisikovici-14941192,2:34:05,Lilia FISIKOVICI,27
+700,GBR,https://www.worldathletics.org/athletes/great-britain-ni/alyson-dixon-14274898,2:34:11,Alyson DIXON,28
+1210,SUI,https://www.worldathletics.org/athletes/switzerland/maja-neuenschwander-14301064,2:34:27,Maja NEUENSCHWANDER,29
+722,GBR,https://www.worldathletics.org/athletes/great-britain-ni/sonia-thomas-samuels-14276539,2:34:36,Sonia SAMUELS,30
+343,AUS,https://www.worldathletics.org/athletes/australia/lisa-weightman-14271094,2:34:41,Lisa WEIGHTMAN,31
+1010,MEX,https://www.worldathletics.org/athletes/mexico/madaí-pérez-14291191,2:34:42,Madaí PÉREZ,32
+1286,UKR,https://www.worldathletics.org/athletes/ukraine/olga-kotovska-14303743,2:34:57,Olha KOTOVSKA,33
+620,ESP,https://www.worldathletics.org/athletes/spain/maría-azucena-díaz-14261730,2:35:02,María Azucena DÍAZ,34
+473,CAN,https://www.worldathletics.org/athletes/canada/krista-duchene-14379460,2:35:29,Krista DUCHENE,35
+1083,PER,https://www.worldathletics.org/athletes/peru/jovana-de-la-cruz-capani-14375651,2:35:49,Jovana DE LA CRUZ,36
+985,LTU,https://www.worldathletics.org/athletes/lithuania/rasa-drazdauskaitė-14290222,2:35:50,Rasa DRAZDAUSKAITÉ,37
+989,LTU,https://www.worldathletics.org/athletes/lithuania/vaida-žūsinaitė-14290450,2:35:53,Vaida ŽŪSINAITĖ,38
+815,HKG,https://www.worldathletics.org/athletes/hong-kong-china/kit-ching-yiu-14386062,2:36:11,Kit Ching YIU,39
+601,DEN,https://www.worldathletics.org/athletes/denmark/jess-draskau-petersson-14262541,2:36:14,Jessica DRASKAU-PETERSSON,40
+1025,NAM,https://www.worldathletics.org/athletes/namibia/beata-naigambo-14291442,2:36:32,Beata NAIGAMBO,41
+965,KOR,https://www.worldathletics.org/athletes/korea/seulki-an-14376748,2:36:50,Seul-ki AHN,42
+553,COL,https://www.worldathletics.org/athletes/colombia/angie-orjuela-14521783,2:37:05,Angie ORJUELA,43
+778,GER,https://www.worldathletics.org/athletes/germany/anja-scherl-14329073,2:37:23,Anja SCHERL,44
+388,BLR,https://www.worldathletics.org/athletes/belarus/maryna-damantsevich-14407224,2:37:34,Maryna DAMANTSEVICH,45
+915,JPN,https://www.worldathletics.org/athletes/japan/mai-ito-14286564,2:37:37,Mai ITO,46
+376,BEL,https://www.worldathletics.org/athletes/belgium/veerle-dejaeghere-14270408,2:37:39,Veerle DEJAEGHERE,47
+1009,MEX,https://www.worldathletics.org/athletes/mexico/margarita-hernandez-flores-14385600,2:38:15,Margarita HERNÁNDEZ,48
+1139,PRK,https://www.worldathletics.org/athletes/dpr-of-korea/kum-ok-kim-14295210,2:38:24,Kum-Ok KIM,49
+304,ALG,https://www.worldathletics.org/athletes/algeria/kenza-dahmani-14272839,2:38:37,Kenza DAHMANI TIFAHI,50
+656,FIN,https://www.worldathletics.org/athletes/finland/anne-mari-hyryläinen-14378768,2:39:02,Anne-Mari HYRYLÄINEN,51
+816,HUN,https://www.worldathletics.org/athletes/hungary/zsófia-erdélyi-14281461,2:39:04,Zsófia ERDÉLYI,52
+534,CHN,https://www.worldathletics.org/athletes/pr-of-china/chao-yue-14264528,2:39:09,Chao YUE,53
+1387,UZB,https://www.worldathletics.org/athletes/uzbekistan/sitora-khamidova-14325015,2:39:45,Sitora KHAMIDOVA,54
+600,DEN,https://www.worldathletics.org/athletes/denmark/anna-holm-jørgensen-14262507,2:39:49,Anna HOLM JØRGENSEN,55
+1024,NAM,https://www.worldathletics.org/athletes/namibia/helalia-johannes-14291432,2:39:55,Helalia JOHANNES,56
+843,IRL,https://www.worldathletics.org/athletes/ireland/lizzie-lee-14427789,2:39:57,Lizzie LEE,57
+1256,TUR,https://www.worldathletics.org/athletes/turkey/esma-aydemir-14378580,2:39:59,Esma AYDEMIR,58
+960,KGZ,https://www.worldathletics.org/athletes/kirghizistan/iuliia-andreeva-14522921,2:40:34,Iuliia ANDREEVA,59
+1030,NED,https://www.worldathletics.org/athletes/netherlands/andrea-deeltstra-14291595,2:40:49,Andrea DEELSTRA,60
+974,LAT,https://www.worldathletics.org/athletes/latvia/ilona-marhele-14290029,2:41:02,Ilona MARHELE,61
+963,KGZ,https://www.worldathletics.org/athletes/kirghizistan/viktoriya-polyudina-14289563,2:41:37,Viktoriia POLIUDINA,62
+1167,RSA,https://www.worldathletics.org/athletes/south-africa/lebo-dinah-phalula-14296741,2:41:46,Dina Lebo PHALULA,63
+349,AUT,https://www.worldathletics.org/athletes/austria/andrea-mayr-14270847,2:41:52,Andrea MAYR,64
+819,HUN,https://www.worldathletics.org/athletes/hungary/krisztina-papp-14282184,2:42:03,Krisztina PAPP,65
+1308,UKR,https://www.worldathletics.org/athletes/ukraine/svitlana-stanko-klymenko-14304232,2:42:26,Svitlana STANKO-KLYMENKO,66
+1088,PLE,https://www.worldathletics.org/athletes/palestine/mayada-al-sayad-14361426,2:42:28,Mayada AL SAYAD,67
+1268,UGA,https://www.worldathletics.org/athletes/uganda/adero-nyakisi-14289374,2:42:39,Adero NYAKISI,68
+416,BRA,https://www.worldathletics.org/athletes/brazil/adriana-aparecida-da-silva-14269334,2:43:22,Adriana Aparecida DA SILVA,69
+966,KOR,https://www.worldathletics.org/athletes/korea/kyung-hee-lim-14289823,2:43:31,Kyunghee LIM,70
+1145,PUR,https://www.worldathletics.org/athletes/puerto-rico/beverly-ramos-14295338,2:43:52,Beverly RAMOS,71
+1013,MGL,https://www.worldathletics.org/athletes/mongolia/munkhzaya-bayartsogt-14632541,2:43:55,Munkhzaya BAYARTSOGT,72
+545,COL,https://www.worldathletics.org/athletes/colombia/erika-abril-14940634,2:44:05,Erika ABRIL,73
+379,BEL,https://www.worldathletics.org/athletes/belgium/manuela-soccol-14407318,2:44:18,Manuela SOCCOL,74
+1023,NAM,https://www.worldathletics.org/athletes/namibia/alina-armas-14572721,2:44:20,Alina ARMAS,75
+840,IRL,https://www.worldathletics.org/athletes/ireland/breege-connolly-14283166,2:44:41,Breege CONNOLLY,76
+1388,UZB,https://www.worldathletics.org/athletes/uzbekistan/marina-hmelevskaya-14325016,2:45:06,Marina HMELEVSKAYA,77
+424,BRA,https://www.worldathletics.org/athletes/brazil/marily-dos-santos-14269103,2:45:08,Marily DOS SANTOS,78
+517,CHN,https://www.worldathletics.org/athletes/pr-of-china/shaoqing-hua-14470082,2:45:09,Shaoqing HUA,79
+615,ERI,https://www.worldathletics.org/athletes/eritrea/nebiat-habtemariam-14262204,2:45:21,Nebiat HABTEMARIAM,80
+748,GER,https://www.worldathletics.org/athletes/germany/anna-hahner-14329081,2:45:32,Anna HAHNER,81
+749,GER,https://www.worldathletics.org/athletes/germany/lisa-hahner-14329082,2:45:33,Lisa HAHNER,82
+821,HUN,https://www.worldathletics.org/athletes/hungary/tünde-szabó-14282400,2:45:37,Tünde SZABÓ,83
+378,BEL,https://www.worldathletics.org/athletes/belgium/els-rens-14415138,2:45:52,Els RENS,84
+1014,MGL,https://www.worldathletics.org/athletes/mongolia/otgonbayar-luvsanlkhundeg-14291305,2:45:55,Otgonbayar LUVSANLUNDEG,85
+948,KEN,https://www.worldathletics.org/athletes/kenya/visiline-jepkesho-14627555,2:46:05,Visiline JEPKESHO,86
+1288,UKR,https://www.worldathletics.org/athletes/ukraine/nataliya-lehonkova-14333929,2:46:08,Nataliya LEHONKOVA,87
+803,GRE,https://www.worldathletics.org/athletes/greece/ourania-rebouli-14378247,2:46:32,Ouranía REBOÚLI,88
+835,IND,https://www.worldathletics.org/athletes/india/jaisha-orchatteri-14282858,2:47:19,Jaisha ORCHATTERI,89
+854,ISR,https://www.worldathletics.org/athletes/israel/maor-tiyouri-14283592,2:47:27,Maor TIYOURI,90
+1238,THA,https://www.worldathletics.org/athletes/thailand/jane-vongvorachoti-14436818,2:47:27,Jane VONGVORACHOTI,91
+1405,ZIM,https://www.worldathletics.org/athletes/zimbabwe/rutendo-joan-nyahora-14325369,2:47:32,Rutendo Joan NYAHORA,92
+1397,VEN,https://www.worldathletics.org/athletes/venezuela/yolimar-pineda-14325191,2:47:34,Yolimar PINEDA,93
+961,KGZ,https://www.worldathletics.org/athletes/kirghizistan/mariya-korobitskaya-14478639,2:47:53,Mariya KOROBITSKAYA,94
+612,ECU,https://www.worldathletics.org/athletes/ecuador/silvia-paredes-14262284,2:48:01,Silvia PAREDES,95
+1164,RSA,https://www.worldathletics.org/athletes/south-africa/christine-kalmer-14296452,2:48:24,Christine KALMER,96
+635,EST,https://www.worldathletics.org/athletes/estonia/lily-luik-14478987,2:48:29,Lily LUIK,97
+1000,MAW,https://www.worldathletics.org/athletes/malawi/tereza-master-14290871,2:48:34,Tereza MASTER,98
+609,ECU,https://www.worldathletics.org/athletes/ecuador/maria-elena-calle-14307072,2:48:39,Maria-Elena CALLE,99
+610,ECU,https://www.worldathletics.org/athletes/ecuador/rosa-chacha-14262327,2:48:52,Rosa CHACHA,100
+1161,ROU,https://www.worldathletics.org/athletes/romania/paula-todoran-14295985,2:48:54,Paula-Claudia TODORAN,101
+570,CUB,https://www.worldathletics.org/athletes/cuba/dailin-belmonte-14263683,2:48:58,Dailín BELMONTE,102
+804,GRE,https://www.worldathletics.org/athletes/greece/sofia-riga-14376496,2:49:07,Sofía RÍGA,103
+563,CRO,https://www.worldathletics.org/athletes/croatia/matea-matošević-14263772,2:50:00,Matea MATOSEVIĆ,104
+509,CHI,https://www.worldathletics.org/athletes/chile/erika-alejandra-de-la-fuente-14269220,2:50:29,Erika Alejandra DE LA FUENTE,105
+971,LAT,https://www.worldathletics.org/athletes/latvia/ariana-hilborn-14386291,2:50:51,Ariana Kira HILBORNA,106
+1216,SVK,https://www.worldathletics.org/athletes/slovak-republic/katarína-pejpkova-berešová-14301373,2:50:54,Katarina BÉREŠOVÁ,107
+460,BUL,https://www.worldathletics.org/athletes/bulgaria/militsa-mircheva-14468897,2:51:06,Militsa MIRCHEVA,108
+983,LBN,https://www.worldathletics.org/athletes/lebanon/chirine-njeim-14546972,2:51:08,Chirine NJEIM,109
+311,ARG,https://www.worldathletics.org/athletes/argentina/rosa-godoy-14272651,2:52:31,Rosa GODOY,110
+1261,TUR,https://www.worldathletics.org/athletes/turkey/sultan-haydar-14259831,2:53:57,Sultan HAYDAR,111
+1259,TUR,https://www.worldathletics.org/athletes/turkey/meryem-erdogan-14422490,2:54:04,Meryem ERDOGAN,112
+1244,TPE,https://www.worldathletics.org/athletes/chinese-taipei/chien-ho-hsieh-14302830,2:54:18,Chien-Ho HSIEH,113
+633,EST,https://www.worldathletics.org/athletes/estonia/leila-luik-14459188,2:54:38,Leila LUIK,114
+1082,PAR,https://www.worldathletics.org/athletes/paraguay/carmen-patricia-martinez-aguilar-14380340,2:56:43,Carmen Patricia MARTÍNEZ,115
+383,BIH,https://www.worldathletics.org/athletes/bosniaherzegovina/lucia-mwihaki-kimani-14270036,2:58:22,Lucia Mwihaki KIMANI,116
+408,BOL,https://www.worldathletics.org/athletes/bolivia/rosmery-quispe-guarachi-14940588,2:58:32,Rosemary QUISPE,117
+807,GRE,https://www.worldathletics.org/athletes/greece/panayiota-vlahaki-14715772,2:59:12,Panayióta VLAHÁKI,118
+567,CRO,https://www.worldathletics.org/athletes/croatia/marija-vrajić-trošić-14263714,2:59:24,Marija VRAJIC,119
+836,IND,https://www.worldathletics.org/athletes/india/kavita-tungar-14283028,2:59:29,Kavita TUNGAR,120
+1234,TAN,https://www.worldathletics.org/athletes/tanzania/sara-ramadhani-14302629,3:00:03,Sara RAMADHANI,121
+937,KAZ,https://www.worldathletics.org/athletes/kazakhstan/irina-smolnikova-14288714,3:00:31,Irina SMOLNIKOVA,122
+510,CHI,https://www.worldathletics.org/athletes/chile/nataly-romero-jaramillo-14266817,3:01:29,Natalia ROMERO,123
+1087,PHI,https://www.worldathletics.org/athletes/philippines/mary-joy-tabal-14450573,3:02:27,Mary Joy TABAL,124
+308,ARG,https://www.worldathletics.org/athletes/argentina/viviana-chávez-14484217,3:03:23,Viviana CHÁVEZ,125
+1175,RWA,https://www.worldathletics.org/athletes/rwanda/claudette-mukasakindi-14299953,3:05:57,Claudette MUKASAKINDI,126
+1243,TPE,https://www.worldathletics.org/athletes/chinese-taipei/yu-hsuan-chen-14383940,3:09:13,Yu-Hsuan CHEN,127
+433,BRA,https://www.worldathletics.org/athletes/brazil/graciete-moreira-carneiro-14384085,3:09:15,Graciete SANTANA,128
+1197,SRI,https://www.worldathletics.org/athletes/sri-lanka/rajasekara-niluka-14300524,3:11:05,Niluka RAJASEKARA,129
+1237,THA,https://www.worldathletics.org/athletes/thailand/natthaya-thanaronnawat-14482310,3:11:31,Natthaya THANARONNAWAT,130
+1179,SGP,https://www.worldathletics.org/athletes/singapore/jie-shi-neo-14682527,3:15:18,Jie Shi NEO,131
+969,KSA,https://www.worldathletics.org/athletes/saudi-arabia/sarah-attar-14539162,3:16:11,Sarah ATTAR,132
+464,CAM,https://www.worldathletics.org/athletes/cambodia/nary-ly-14467075,3:20:20,Nary LY,133
+616,ESP,https://www.worldathletics.org/athletes/spain/alessandra-aguilar-14262157,DNF,Alessandra AGUILAR,"(None,)"
+302,ALG,https://www.worldathletics.org/athletes/algeria/souad-ait-salem-14272893,DNF,Souad AÏT SALEM,"(None,)"
+547,COL,https://www.worldathletics.org/athletes/colombia/kellys-yesenia-arias-figueroa-14653359,DNF,Kellys ARIAS,"(None,)"
+1124,POR,https://www.worldathletics.org/athletes/portugal/jessica-augusto-14294784,DNF,Jessica AUGUSTO,"(None,)"
+994,MAR,https://www.worldathletics.org/athletes/morocco/kawtar-boulaid-14335569,DNF,Koutar BOULAID,"(None,)"
+1153,ROU,https://www.worldathletics.org/athletes/romania/daniela-cîrlan-14295512,DNF,Daniela CÎRLAN,"(None,)"
+670,FRA,https://www.worldathletics.org/athletes/france/christelle-daunay-14257893,DNF,Christelle DAUNAY,"(None,)"
+447,BRN,https://www.worldathletics.org/athletes/bahrain/shitaye-eshete-14383158,DNF,Shitaye ESHETE,"(None,)"
+1183,SLO,https://www.worldathletics.org/athletes/slovenia/daneja-grandovec-14300125,DNF,Daneja GRANDOVEC,"(None,)"
+865,ITA,https://www.worldathletics.org/athletes/italy/anna-incerti-14284533,DNF,Anna INCERTI,"(None,)"
+390,BLR,https://www.worldathletics.org/athletes/belarus/nastassia-ivanova-14269599,DNF,Nastassia IVANOVA,"(None,)"
+1191,SRB,https://www.worldathletics.org/athletes/serbia/olivera-jevtić-14300350,DNF,Olivera JEVTIC,"(None,)"
+949,KEN,https://www.worldathletics.org/athletes/kenya/helah-jelagat-kiprop-14289150,DNF,Helah Jelagat KIPROP,"(None,)"
+1108,POL,https://www.worldathletics.org/athletes/poland/katarzyna-kowalska-14293933,DNF,Katarzyna KOWALSKA,"(None,)"
+634,EST,https://www.worldathletics.org/athletes/estonia/liina-luik-14434340,DNF,Liina LUIK,"(None,)"
+1084,PER,https://www.worldathletics.org/athletes/peru/inés-melchor-14293292,DNF,Inés MELCHOR,"(None,)"
+1131,POR,https://www.worldathletics.org/athletes/portugal/sara-moreira-14294989,DNF,Sara MOREIRA,"(None,)"
+629,ESP,https://www.worldathletics.org/athletes/spain/estela-navascues-14260904,DNF,Estela NAVASCUÉS,"(None,)"
+312,ARG,https://www.worldathletics.org/athletes/argentina/maría-de-los-angeles-peralta-14272611,DNF,María PERALTA,"(None,)"
+1019,MNE,https://www.worldathletics.org/athletes/montenegro/sladana-perunović-14383719,DNF,Sladana PERUNOVIC,"(None,)"
+853,ISR,https://www.worldathletics.org/athletes/israel/lonah-chemtai-salpeter-14523502,DNF,Lonah Chemtai SALPETER,"(None,)"
+652,ETH,https://www.worldathletics.org/athletes/ethiopia/tigist-tufa-14260337,DNF,Tigist TUFA,"(None,)"
+940,KAZ,https://www.worldathletics.org/athletes/kazakhstan/gulzhanat-zhanatbek-14427040,DNF,Gulzhanat ZHANATBEK,"(None,)"
+1172,RSA,https://www.worldathletics.org/athletes/south-africa/irvette-van-zyl-14296979,DNS,Irvette VAN ZYL,"(None,)"
+2756,KEN,https://www.worldathletics.org/athletes/kenya/peres-jepchirchir-14593938,2:27:20,Peres JEPCHIRCHIR,1
+2761,KEN,https://www.worldathletics.org/athletes/kenya/brigid-kosgei-14730790,2:27:36,Brigid KOSGEI,2
+3891,USA,https://www.worldathletics.org/athletes/united-states/molly-seidel-14437057,2:27:46,Molly SEIDEL,3
+1839,ETH,https://www.worldathletics.org/athletes/ethiopia/roza-dereje-14732953,2:28:38,Roza DEREJE,4
+1238,BLR,https://www.worldathletics.org/athletes/belarus/volha-mazuronak-14269741,2:29:06,Volha MAZURONAK,5
+2110,GER,https://www.worldathletics.org/athletes/germany/melat-yisak-kejeta-14466358,2:29:16,Melat Yisak KEJETA,6
+1344,BRN,https://www.worldathletics.org/athletes/bahrain/eunice-chebichii-chumba-14423913,2:29:36,Eunice Chebichii CHUMBA,7
+2666,JPN,https://www.worldathletics.org/athletes/japan/mao-ichiyama-14695498,2:30:13,Mao ICHIYAMA,8
+1392,CAN,https://www.worldathletics.org/athletes/canada/malindi-elmore-14268042,2:30:59,Malindi ELMORE,9
+1054,AUS,https://www.worldathletics.org/athletes/australia/sinead-diver-14490253,2:31:14,Sinead DIVER,10
+2974,NAM,https://www.worldathletics.org/athletes/namibia/helalia-johannes-14291432,2:31:22,Helalia JOHANNES,11
+3514,SUI,https://www.worldathletics.org/athletes/switzerland/fabienne-schlumpf-14940420,2:31:36,Fabienne SCHLUMPF,12
+1416,CAN,https://www.worldathletics.org/athletes/canada/natasha-wodak-14266948,2:31:41,Natasha WODAK,13
+3175,POL,https://www.worldathletics.org/athletes/poland/karolina-nadolska-14293773,2:32:04,Karolina NADOLSKA,14
+3387,RSA,https://www.worldathletics.org/athletes/south-africa/gerda-steyn-14730601,2:32:10,Gerda STEYN,15
+3702,UGA,https://www.worldathletics.org/athletes/uganda/immaculate-chemutai-14360508,2:32:23,Immaculate CHEMUTAI,16
+3859,USA,https://www.worldathletics.org/athletes/united-states/sally-kipyego-14289173,2:32:53,Sally KIPYEGO,17
+2135,GER,https://www.worldathletics.org/athletes/germany/deborah-schöneborn-14587891,2:33:08,Deborah SCHÖNEBORN,18
+2677,JPN,https://www.worldathletics.org/athletes/japan/ayuko-suzuki-14428635,2:33:14,Ayuko SUZUKI,19
+2859,LES,https://www.worldathletics.org/athletes/lesotho/neheng-khatala-14442242,2:33:15,Neheng KHATALA,20
+1567,CRO,https://www.worldathletics.org/athletes/croatia/matea-parlov-koštro-14329614,2:33:18,Matea PARLOV KOŠTRO,21
+3558,SWE,https://www.worldathletics.org/athletes/sweden/carolina-wikström-14857083,2:33:19,Carolina WIKSTRÖM,22
+1068,AUS,https://www.worldathletics.org/athletes/australia/ellie-pashley-14448453,2:33:39,Ellie PASHLEY,23
+3582,TAN,https://www.worldathletics.org/athletes/tanzania/failuna-matanga-14543640,2:33:58,Failuna MATANGA,24
+2338,IRL,https://www.worldathletics.org/athletes/ireland/fionnuala-mccormack-14283143,2:34:09,Fionnuala MCCORMACK,25
+1073,AUS,https://www.worldathletics.org/athletes/australia/lisa-weightman-14271094,2:34:19,Lisa WEIGHTMAN,26
+3137,PER,https://www.worldathletics.org/athletes/peru/gladys-tejeda-14383678,2:34:21,Gladys TEJEDA,27
+1177,BEL,https://www.worldathletics.org/athletes/belgium/mieke-gorissen-14911853,2:34:24,Mieke GORISSEN,28
+1770,ESP,https://www.worldathletics.org/athletes/spain/elena-loyo-14613625,2:34:38,Elena LOYO,29
+3231,POR,https://www.worldathletics.org/athletes/portugal/salomé-rocha-14295060,2:34:52,Salomé ROCHA,30
+2141,GER,https://www.worldathletics.org/athletes/germany/katharina-steinruck-14277958,2:35:00,Katharina STEINRUCK,31
+2391,ITA,https://www.worldathletics.org/athletes/italy/giovanna-epis-14284281,2:35:09,Giovanna EPIS,32
+2673,JPN,https://www.worldathletics.org/athletes/japan/honami-maeda-14643309,2:35:28,Honami MAEDA,33
+2812,KOR,https://www.worldathletics.org/athletes/korea/kyungsun-choi-14334611,2:35:33,Kyungsun CHOI,34
+3173,POL,https://www.worldathletics.org/athletes/poland/aleksandra-lisowska-14336154,2:35:33,Aleksandra LISOWSKA,35
+2800,KGZ,https://www.worldathletics.org/athletes/kirghizistan/darya-maslova-14583875,2:35:35,Darya MASLOVA,36
+1766,ESP,https://www.worldathletics.org/athletes/spain/marta-galimany-14329379,2:35:39,Marta GALIMANY,37
+1925,FRA,https://www.worldathletics.org/athletes/france/susan-jeptooo-14523812,2:36:29,Susan JEPTOOO,38
+2002,GBR,https://www.worldathletics.org/athletes/great-britain-ni/stephanie-davis-14815524,2:36:33,Stephanie DAVIS,39
+3136,PER,https://www.worldathletics.org/athletes/peru/jovana-de-la-cruz-capani-14375651,2:36:38,Jovana DE LA CRUZ CAPANI,40
+1699,ECU,https://www.worldathletics.org/athletes/ecuador/rosa-chacha-14262327,2:36:44,Rosa CHACHA,41
+3755,UKR,https://www.worldathletics.org/athletes/ukraine/yevheniya-prokofyeva-14532634,2:36:47,Yeheniya PROKOFYEVA,42
+1745,ERI,https://www.worldathletics.org/athletes/eritrea/nazret-weldu-14262207,2:37:01,Nazret WELDU,43
+2992,NED,https://www.worldathletics.org/athletes/netherlands/andrea-deeltstra-14291595,2:37:05,Andrea DEELTSTRA,44
+2942,MGL,https://www.worldathletics.org/athletes/mongolia/munkhzaya-bayartsogt-14632541,2:37:08,Munkhzaya BAYARTSOGT,45
+2736,KAZ,https://www.worldathletics.org/athletes/kazakhstan/zhanna-mamazhanova-14498228,2:37:42,Zhanna MAMAZHANOVA,46
+1490,CHN,https://www.worldathletics.org/athletes/pr-of-china/deshun-zhang-14693572,2:37:45,Deshun ZHANG,47
+2366,ISR,https://www.worldathletics.org/athletes/israel/maor-tiyouri-14283592,2:37:52,Maor TIYOURI,48
+1184,BEL,https://www.worldathletics.org/athletes/belgium/hanne-verbruggen-14599545,2:38:03,Hanne VERBRUGGEN,49
+1242,BLR,https://www.worldathletics.org/athletes/belarus/nina-savina-14421166,2:38:41,Nina SAVINA,50
+3517,SUI,https://www.worldathletics.org/athletes/switzerland/martina-strähl-14366123,2:39:25,Martina STRÄHL,51
+1621,CZE,https://www.worldathletics.org/athletes/czech-republic/marcela-joglová-14263037,2:39:29,Marcela JOGLOVÁ,52
+1565,CRO,https://www.worldathletics.org/athletes/croatia/bojana-bjeljac-14665027,2:39:32,Bojana BJELJAC,53
+2910,MDA,https://www.worldathletics.org/athletes/moldova/lilia-fisikovici-14941192,2:39:59,Lilia FISIKOVICI,54
+1539,COL,https://www.worldathletics.org/athletes/colombia/angie-orjuela-14521783,2:40:04,Angie ORJUELA,55
+2881,MAR,https://www.worldathletics.org/athletes/morocco/rkia-el-moukim-14335548,2:40:10,Rkia EL MOUKIM,56
+2811,KOR,https://www.worldathletics.org/athletes/korea/seulki-an-14376748,2:41:11,Seulki AN,57
+1620,CZE,https://www.worldathletics.org/athletes/czech-republic/tereza-hrochová-14463763,2:42:25,Tereza HROCHOVÁ,58
+3174,POL,https://www.worldathletics.org/athletes/poland/angelika-mach-14373030,2:42:26,Angelika MACH,59
+1698,ECU,https://www.worldathletics.org/athletes/ecuador/andrea-paola-bonilla-14859648,2:43:30,Andrea Paola BONILLA,60
+1026,ARG,https://www.worldathletics.org/athletes/argentina/marcela-cristina-gomez-14435728,2:44:09,Marcela Cristina GOMEZ,61
+1477,CHN,https://www.worldathletics.org/athletes/pr-of-china/zhixuan-li-14376349,2:45:23,Zhixuan LI,62
+2994,NED,https://www.worldathletics.org/athletes/netherlands/jill-holterman-14370468,2:45:27,Jill HOLTERMAN,63
+2926,MEX,https://www.worldathletics.org/athletes/mexico/úrsula-patricia-sánchez-14291259,2:45:45,Úrsula Patricia SÁNCHEZ,64
+2927,MEX,https://www.worldathletics.org/athletes/mexico/daniela-torres-14841906,2:47:15,Daniela TORRES,65
+2364,ISR,https://www.worldathletics.org/athletes/israel/lonah-chemtai-salpeter-14523502,2:48:31,Lonah Chemtai SALPETER,66
+1466,CHN,https://www.worldathletics.org/athletes/pr-of-china/li-bai-14702490,2:49:21,Li BAI,67
+2029,GBR,https://www.worldathletics.org/athletes/great-britain-ni/stephanie-twell-14276601,2:53:26,Stephanie TWELL,68
+3699,UGA,https://www.worldathletics.org/athletes/uganda/juliet-chekwel-14940422,2:53:40,Juliet CHEKWEL,69
+3230,POR,https://www.worldathletics.org/athletes/portugal/sara-catarina-ribeiro-14382299,2:55:01,Sara Catarina RIBEIRO,70
+2020,GBR,https://www.worldathletics.org/athletes/great-britain-ni/jess-piasecki-14274778,2:55:39,Jess PIASECKI,71
+3477,SOL,https://www.worldathletics.org/athletes/solomon-islands/sharon-firisua-14624966,3:02:10,Sharon FIRISUA,72
+1406,CAN,https://www.worldathletics.org/athletes/canada/dayna-pidhoresky-14318989,3:03:10,Dayna PIDHORESKY,73
+2925,MEX,https://www.worldathletics.org/athletes/mexico/andrea-soraya-ramírez-limon-14638908,DNF,Andrea Soraya RAMÍREZ LIMON,"(None,)"
+2753,KEN,https://www.worldathletics.org/athletes/kenya/ruth-chepngetich-14766298,DNF,Ruth CHEPNGETICH,"(None,)"
+1771,ESP,https://www.worldathletics.org/athletes/spain/laura-méndez-14261003,DNF,Laura MÉNDEZ,"(None,)"
+1841,ETH,https://www.worldathletics.org/athletes/ethiopia/birhane-dibaba-14434016,DNF,Birhane DIBABA,"(None,)"
+1345,BRN,https://www.worldathletics.org/athletes/bahrain/tejitu-daba-14383159,DNF,Tejitu DABA,"(None,)"
+1743,ERI,https://www.worldathletics.org/athletes/eritrea/kokob-tesfagaber-solomon-14722518,DNF,Kokob Tesfagaber SOLOMON,"(None,)"
+3737,UKR,https://www.worldathletics.org/athletes/ukraine/viktoriia-kaliuzhna-14421044,DNF,Viktoria KALIUZHNA,"(None,)"
+3392,RSA,https://www.worldathletics.org/athletes/south-africa/irvette-van-zyl-14296979,DNF,Irvette VAN ZYL,"(None,)"
+3228,POR,https://www.worldathletics.org/athletes/portugal/sara-moreira-14294989,DNF,Sara MOREIRA,"(None,)"
+3894,USA,https://www.worldathletics.org/athletes/united-states/aliphine-chepkerker-tuliamuk-14289472,DNF,Aliphine Chepkerker TULIAMUK,"(None,)"
+2330,IRL,https://www.worldathletics.org/athletes/ireland/aoife-cooke-14690566,DNF,Aoife COOKE,"(None,)"
+3750,UKR,https://www.worldathletics.org/athletes/ukraine/darya-mykhaylova-14917692,DNF,Darya MYKHAYLOVA,"(None,)"
+1859,ETH,https://www.worldathletics.org/athletes/ethiopia/zeineba-yimer-14771299,DNF,Zeineba YIMER,"(None,)"
+1630,CZE,https://www.worldathletics.org/athletes/czech-republic/eva-vrabcová-nyvltová-14941331,DNF,Eva VRABCOVÁ NYVLTOVÁ,"(None,)"
+3660,TUR,https://www.worldathletics.org/athletes/turkey/meryem-erdogan-14422490,DNF,Meryem ERDOGAN,"(None,)"
