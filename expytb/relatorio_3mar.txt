@@ -1,4 +1,0 @@
-mar 3 2022
-
-Fiz uma spider para cada maratona olimpica tanto do feminino como masculino e gerei o .csv deles, sinto que poderia fazer menos spiders para fazer esses processos já que a unica mudança nelas e o start_urls, então irei atras de como melhorar isso.
-	

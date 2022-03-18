@@ -11,6 +11,6 @@ class PropertiesItem(Item):
     position = Field()
     country = Field()
     mark = Field()
-    BIB = Field()
     link = Field()
+    competition = Field()
     
