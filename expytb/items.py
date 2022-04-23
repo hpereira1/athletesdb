@@ -13,4 +13,5 @@ class PropertiesItem(Item):
     mark = Field()
     link = Field()
     competition = Field()
-    
+    generalinfo = Field()
+    generalinfo2 = Field()
