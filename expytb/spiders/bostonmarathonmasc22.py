@@ -8,8 +8,5 @@ class BostonMarathonMasc22(scrapy.Spider):
 
     def parse(self, response):
         item = PropertiesItem()
-        for athletes in response.css('td.tablegrid_list_item'):
-            item['generalinfo'] = athletes.css('tr.tr_header').get()
-            item['generalinfo2'] = athletes.css('table.table_infogrid').get()
-            item['competition'] = 'bostonmarathonmasc22'
-            yield item
+        item['generalinfo'] = response.css('table.tablegrid_table').get()
+        yield item
