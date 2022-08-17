@@ -1,4 +1,4 @@
-# Scrapy settings for expytb project
+# Scrapy settings for marathonsb project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'expytb'
+BOT_NAME = 'marathondb'
 
-SPIDER_MODULES = ['expytb.spiders']
-NEWSPIDER_MODULE = 'expytb.spiders'
+SPIDER_MODULES = ['marathondb.spiders']
+NEWSPIDER_MODULE = 'marathondb.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -44,13 +44,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'expytb.middlewares.ExpytbSpiderMiddleware': 543,
+#    'marathondb.middlewares.MarathondbSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'expytb.middlewares.ExpytbDownloaderMiddleware': 543,
+#    'marathondb.middlewares.MarathondbDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -62,7 +62,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'expytb.pipelines.ExpytbPipeline': 300,
+#    'marathondb.pipelines.MarathondbPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
