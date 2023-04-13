@@ -16,4 +16,5 @@ class WACwomen11Spider(scrapy.Spider):
             item['competition'] = "	13th IAAF World Championships in Athletics",    
             item['sport'] = response.css('div.ResultsLOC_unitName__2Wlrh::text')[1].getall(),
             item['link'] = 'https://www.worldathletics.org' + athletes.css('a.ProfileLinks_main__1b_tF').attrib['href'],
+            item['gender'] = "F"
             yield item

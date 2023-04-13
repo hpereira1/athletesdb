@@ -14,3 +14,4 @@ class PropertiesItem(Item):
     competition = Field()
     sport = Field()
     link = Field()
+    gender = Field()

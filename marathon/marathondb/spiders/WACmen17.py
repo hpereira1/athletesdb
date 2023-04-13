@@ -16,4 +16,5 @@ class WACmen17Spider(scrapy.Spider):
             item['competition'] = "IAAF World Championships London 2017",    
             item['sport'] = response.css('div.ResultsLOC_unitName__2Wlrh::text')[1].getall(),
             item['link'] = 'https://www.worldathletics.org' + athletes.css('a.ProfileLinks_main__1b_tF').attrib['href'],
+            item['gender'] = "M"
             yield item
