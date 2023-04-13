@@ -15,5 +15,6 @@ class WAICmen16Spider(scrapy.Spider):
             item['mark'] = athletes.css('span.ResultsLOC_top3Val__2Dxi- > span::text').get(),
             item['competition'] = "	IAAF World Indoor Championships 2016",    
             item['link'] = 'https://www.worldathletics.org' + athletes.css('a.ProfileLinks_main__1b_tF').attrib['href'],
-            item['sport'] = response.css('div.ResultsLOC_unitName__2Wlrh::text')[1].getall(),
+            item['sport'] = "Shot Put",
+            item['gender'] = "M"
             yield item

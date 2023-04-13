@@ -11,10 +11,11 @@ class DLWomenSpider22(scrapy.Spider):
             item = ShotputdbItem()
             item['name'] = athletes.css('td.EventResults_name__3UzJp> a::text').get(),
             aux = athletes.css('span.ResultsLOC_top3Val__2Dxi-::text').get()
-            item['position'] = response.css("tbody tr td:nth-child(1)::text")[N].getall(),
+            item['position'] = N + 1
             item['country'] = athletes.css("span.Flags_name__28uFw::text").get(),
             item['mark'] = str(response.css("tbody tr td:nth-child(5)::text")[N].getall()),
             item['competition'] = "Ooredoo Doha Meeting - 13–14 MAY 2022",
-            item['sport'] = response.css("div.styles_text__3cmFs::text").getall(),
+            item['sport'] = "Shot Put",
+            item['gender'] = "F"
             yield item
             N+=1

@@ -14,3 +14,4 @@ class ShotputdbItem(Item):
     competition = Field()
     sport = Field()
     link = Field()
+    gender = Field()

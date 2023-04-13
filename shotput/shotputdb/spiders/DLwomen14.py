@@ -15,6 +15,7 @@ class DLwomenSpider14(scrapy.Spider):
             item['country'] = athletes.css("span.Flags_name__28uFw::text").get(),
             item['mark'] = str(response.css("tbody tr td:nth-child(5)::text")[N].getall()),
             item['competition'] = "Doha IAAF Diamond League - 09 MAY 2014",
-            item['sport'] = response.css("div.styles_text__3cmFs::text").getall(),
+            item['sport'] = "Shot Put",
+            item['gender'] = "F"
             yield item
             N+=1
