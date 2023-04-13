@@ -2,7 +2,7 @@ import scrapy
 from shotputdb.items import ShotputdbItem
 
 class DLWomenSpider17_2(scrapy.Spider):
-    name = 'dlwomen17_2'
+    name = 'dlwomen17_shanghai'
     start_urls = ['https://www.worldathletics.org/competitions/diamond-league/calendar-results/7104820/result?eventId=10229530&gender=W']
 
     def parse(self, response):
