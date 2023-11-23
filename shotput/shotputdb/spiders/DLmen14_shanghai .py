@@ -19,3 +19,4 @@ class DLmenSpider14_shanghai(scrapy.Spider):
             item['gender'] = "M"
             yield item
             N+=1
+            
